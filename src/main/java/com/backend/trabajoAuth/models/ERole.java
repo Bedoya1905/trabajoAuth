@@ -1,0 +1,7 @@
+package com.backend.trabajoAuth.models;
+
+public enum ERole {
+    ROLE_USER,
+    ROLE_MODERATOR,
+    ROLE_ADMIN
+}
